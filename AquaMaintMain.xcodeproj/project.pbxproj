@@ -13,6 +13,18 @@
 		2F1C895B1BFA4EF300615249 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F1C895A1BFA4EF300615249 /* Images.xcassets */; };
 		2F1C895E1BFA4EF300615249 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2F1C895C1BFA4EF300615249 /* LaunchScreen.xib */; };
 		2F1C896A1BFA4EF300615249 /* AquaMaintMainTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1C89691BFA4EF300615249 /* AquaMaintMainTests.swift */; };
+		2F1C89741BFA518B00615249 /* GlobalFiles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1C89731BFA518B00615249 /* GlobalFiles.swift */; };
+		2F1C89761BFA519D00615249 /* WaterTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1C89751BFA519D00615249 /* WaterTest.swift */; };
+		2F1C89781BFA51C300615249 /* GhGraphView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1C89771BFA51C300615249 /* GhGraphView.swift */; };
+		2F1C897B1BFA51E700615249 /* KhGraphView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1C897A1BFA51E700615249 /* KhGraphView.swift */; };
+		2F1C897D1BFA51F800615249 /* PhGraphView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1C897C1BFA51F800615249 /* PhGraphView.swift */; };
+		2F1C897F1BFA520900615249 /* NhGraphView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1C897E1BFA520900615249 /* NhGraphView.swift */; };
+		2F1C89811BFA521D00615249 /* NitrateGraphView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1C89801BFA521D00615249 /* NitrateGraphView.swift */; };
+		2F1C89831BFA523000615249 /* NitriteGraphView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1C89821BFA523000615249 /* NitriteGraphView.swift */; };
+		2F1C89851BFA525200615249 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1C89841BFA525200615249 /* ListViewController.swift */; };
+		2F1C89881BFA528900615249 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1C89871BFA528900615249 /* DetailViewController.swift */; };
+		2F1C898A1BFA52A500615249 /* NewTestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1C89891BFA52A500615249 /* NewTestViewController.swift */; };
+		2F1C898C1BFA52BE00615249 /* GraphViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F1C898B1BFA52BE00615249 /* GraphViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +48,18 @@
 		2F1C89631BFA4EF300615249 /* AquaMaintMainTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AquaMaintMainTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F1C89681BFA4EF300615249 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2F1C89691BFA4EF300615249 /* AquaMaintMainTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AquaMaintMainTests.swift; sourceTree = "<group>"; };
+		2F1C89731BFA518B00615249 /* GlobalFiles.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GlobalFiles.swift; sourceTree = "<group>"; };
+		2F1C89751BFA519D00615249 /* WaterTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WaterTest.swift; sourceTree = "<group>"; };
+		2F1C89771BFA51C300615249 /* GhGraphView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GhGraphView.swift; sourceTree = "<group>"; };
+		2F1C897A1BFA51E700615249 /* KhGraphView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KhGraphView.swift; sourceTree = "<group>"; };
+		2F1C897C1BFA51F800615249 /* PhGraphView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhGraphView.swift; sourceTree = "<group>"; };
+		2F1C897E1BFA520900615249 /* NhGraphView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NhGraphView.swift; sourceTree = "<group>"; };
+		2F1C89801BFA521D00615249 /* NitrateGraphView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NitrateGraphView.swift; sourceTree = "<group>"; };
+		2F1C89821BFA523000615249 /* NitriteGraphView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NitriteGraphView.swift; sourceTree = "<group>"; };
+		2F1C89841BFA525200615249 /* ListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
+		2F1C89871BFA528900615249 /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		2F1C89891BFA52A500615249 /* NewTestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewTestViewController.swift; sourceTree = "<group>"; };
+		2F1C898B1BFA52BE00615249 /* GraphViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GraphViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,11 +101,15 @@
 		2F1C89501BFA4EF300615249 /* AquaMaintMain */ = {
 			isa = PBXGroup;
 			children = (
-				2F1C89531BFA4EF300615249 /* AppDelegate.swift */,
-				2F1C89551BFA4EF300615249 /* ViewController.swift */,
+				2F1C89731BFA518B00615249 /* GlobalFiles.swift */,
+				2F1C89751BFA519D00615249 /* WaterTest.swift */,
+				2F1C89791BFA51D000615249 /* Graph Views */,
+				2F1C89861BFA525700615249 /* View Controllers */,
 				2F1C89571BFA4EF300615249 /* Main.storyboard */,
 				2F1C895A1BFA4EF300615249 /* Images.xcassets */,
 				2F1C895C1BFA4EF300615249 /* LaunchScreen.xib */,
+				2F1C89551BFA4EF300615249 /* ViewController.swift */,
+				2F1C89531BFA4EF300615249 /* AppDelegate.swift */,
 				2F1C89511BFA4EF300615249 /* Supporting Files */,
 			);
 			path = AquaMaintMain;
@@ -110,6 +138,30 @@
 				2F1C89681BFA4EF300615249 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2F1C89791BFA51D000615249 /* Graph Views */ = {
+			isa = PBXGroup;
+			children = (
+				2F1C89771BFA51C300615249 /* GhGraphView.swift */,
+				2F1C897A1BFA51E700615249 /* KhGraphView.swift */,
+				2F1C897C1BFA51F800615249 /* PhGraphView.swift */,
+				2F1C897E1BFA520900615249 /* NhGraphView.swift */,
+				2F1C89801BFA521D00615249 /* NitrateGraphView.swift */,
+				2F1C89821BFA523000615249 /* NitriteGraphView.swift */,
+			);
+			name = "Graph Views";
+			sourceTree = "<group>";
+		};
+		2F1C89861BFA525700615249 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				2F1C89841BFA525200615249 /* ListViewController.swift */,
+				2F1C89871BFA528900615249 /* DetailViewController.swift */,
+				2F1C89891BFA52A500615249 /* NewTestViewController.swift */,
+				2F1C898B1BFA52BE00615249 /* GraphViewController.swift */,
+			);
+			name = "View Controllers";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -213,7 +265,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F1C89561BFA4EF300615249 /* ViewController.swift in Sources */,
+				2F1C89761BFA519D00615249 /* WaterTest.swift in Sources */,
+				2F1C89741BFA518B00615249 /* GlobalFiles.swift in Sources */,
+				2F1C89881BFA528900615249 /* DetailViewController.swift in Sources */,
+				2F1C89781BFA51C300615249 /* GhGraphView.swift in Sources */,
+				2F1C89811BFA521D00615249 /* NitrateGraphView.swift in Sources */,
+				2F1C89851BFA525200615249 /* ListViewController.swift in Sources */,
+				2F1C897B1BFA51E700615249 /* KhGraphView.swift in Sources */,
+				2F1C897D1BFA51F800615249 /* PhGraphView.swift in Sources */,
+				2F1C898C1BFA52BE00615249 /* GraphViewController.swift in Sources */,
 				2F1C89541BFA4EF300615249 /* AppDelegate.swift in Sources */,
+				2F1C897F1BFA520900615249 /* NhGraphView.swift in Sources */,
+				2F1C898A1BFA52A500615249 /* NewTestViewController.swift in Sources */,
+				2F1C89831BFA523000615249 /* NitriteGraphView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
